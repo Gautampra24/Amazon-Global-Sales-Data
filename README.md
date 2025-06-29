@@ -33,7 +33,7 @@ This report enables you to explore and understand global sales data through rich
 
 > *(Upload an image in your GitHub repo’s `images/` folder and link here)*
 
-![Amazon Global Sales Dashboard Screenshot]()
+![Amazon Global Sales Dashboard Screenshot](https://github.com/Gautampra24/Amazon-Global-Sales-Data/blob/main/Amazon%20Globle%20Sales%20Dashboard.png)
 
 > Activate full-screen to view a larger image and explore the visual interface.
 
